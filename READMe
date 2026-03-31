@@ -1,0 +1,13 @@
+# 🚀 AI Studio App
+
+## 📌 Description
+This is an AI app built using Google AI Studio (Gemini).
+
+## 🛠️ Features
+- Chat with AI
+- Fast response
+- Easy to use UI
+
+## ⚙️ Installation
+```bash
+npm install
